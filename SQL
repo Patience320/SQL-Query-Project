@@ -1,1 +1,0 @@
-This is one of the projects I have worked on to query data for a local bookstore. I was also able to create stored procedures and views. 
